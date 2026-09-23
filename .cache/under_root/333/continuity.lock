@@ -1,0 +1,30 @@
+ACCESS: LOCKED
+
+four proofs required
+
+normalize:
+UPPERCASE
+REMOVE SPACES
+KEEP PUNCTUATION
+
+01
+697575b6530a74ce1503a4e17fc49ce7930456302d9c777da59ccb317d5e5b2f
+
+02
+2aa2bef4dff090ce21889cfc5c6d9f6b908966dae10395b35c4220e163fc84f3
+
+03
+e1b8435d4b3f9eaadff0c4feaaabbd1097a05967f71922cd75962368ce902ac3
+
+04
+b59d547f407c0824832781659dc451fe0af70777b2deeff7f84a3ea8dea18a3c
+
+motion
+root
+moth
+index
+
+if all four match:
+join with :
+
+then hash once more
